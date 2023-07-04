@@ -1,0 +1,21 @@
+{
+  "name": "19vitehmrtest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "prettier": "prettier {*.*,**/*.*} --single-quote --write --print-width 60",
+    "edit": "vzcode"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "vite": "^4.3.9",
+    "vzcode": "^0.5.0"
+  },
+  "dependencies": {
+    "d3": "^7.8.5"
+  }
+}
