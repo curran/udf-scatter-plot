@@ -6,7 +6,7 @@ Unidirectional Data Flow Scatter Plot Example
 Demonstrates patterns around:
 
  * state management with unidirectional data flow (see `main.js`)
- * hot reloading support (`main.js`)
+ * hot reloading support (`main.js`) - try it! Run `npm run dev`, then change the circle radius and save, watch hot reload
  * loading data (`loadAndParseCSV.js`)
  * responding to resize (`respondToResize.js`)
  * composing features (`viz.js`)
